@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9844ca30-ad5e-41f3-bf46-21fcc7d2fa1c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/country/Country.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/country/country.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/countryList/CountryList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/countryList/countryList.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/footer/Footer.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/footer/footer.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/header/Header.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/header/header.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/pages/Sri Lanka/Sri Lanka.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/pages/Symptom/Symptom.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,17 +81,38 @@
       <workItem from="1604068749394" duration="6135000" />
       <workItem from="1604212839362" duration="847000" />
       <workItem from="1604393255628" duration="429000" />
+      <workItem from="1604480490888" duration="522000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit (Home Page)">
+      <created>1604480676108</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604480676108</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit (Home Page)" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit (Home Page)" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="275" y="28" key="#ESLint" timestamp="1603968393941">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="275" y="28" key="#ESLint/0.0.1366.738@0.0.1366.738" timestamp="1603968393941" />
+    <state x="288" y="0" key="CommitChangelistDialog2" timestamp="1604480675371">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="288" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1604480675371" />
     <state x="463" y="125" key="FileChooserDialogImpl" timestamp="1603964578730">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -128,6 +133,10 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1345" height="331" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1604044735468" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1604480701586">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1604480701586" />
     <state x="339" y="165" key="run.anything.popup" timestamp="1604072086537">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
