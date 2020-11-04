@@ -1,0 +1,10 @@
+.divCard{
+    margin-bottom: 50px;
+}
+@media only screen and  (max-device-width: 768px) {
+    .divCard{
+        margin-right: 0;
+        margin-top: 20px;
+        margin-bottom: 20px;
+    }
+}
