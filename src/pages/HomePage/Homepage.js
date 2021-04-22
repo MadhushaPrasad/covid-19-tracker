@@ -91,7 +91,9 @@ class HomePage extends React.Component {
                 <h4 className="text-light">Total Deaths</h4>
               </div>
               <div className="col-lg-12 mt-5 text-center">
-                <h5 className="text-dark mt-2">{this.state.local_new_cases}</h5>
+                <h5 className="text-light mt-2">
+                  {this.state.local_new_cases}
+                </h5>
                 <h4 className="text-light">New Cases</h4>
               </div>
               <div className="col-lg-12 mt-5 text-center">

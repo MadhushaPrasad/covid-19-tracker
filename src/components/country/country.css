@@ -3,6 +3,7 @@
   -webkit-box-shadow: 1px 3px 1px rgba(0, 0, 0, 0.13);
   -moz-box-shadow: 1px 3px 1px rgba(0, 0, 0, 0.13);
   box-shadow: 1px 3px 10px #053769;
+  border-radius: 25px;
 }
 @media only screen and (max-device-width: 768px) {
   .divCard {
