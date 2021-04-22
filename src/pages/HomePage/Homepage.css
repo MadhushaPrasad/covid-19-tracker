@@ -1,0 +1,74 @@
+.main {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  padding: 60px 20px;
+}
+
+.quickDiv {
+  height: 85% !important;
+  background-color: #053769;
+  border-radius: 30px;
+  -webkit-box-shadow: 1px 3px 1px rgba(0, 0, 0, 0.13);
+  -moz-box-shadow: 1px 3px 1px rgba(0, 0, 0, 0.13);
+  box-shadow: 1px 3px 10px #053769;
+}
+
+.countryDiv {
+  position: absolute;
+  right: 0;
+  padding-right: 0;
+  border-radius: 30px;
+}
+
+@media only screen and (max-device-width: 768px) {
+  .main {
+    position: relative;
+    padding: 60px 20px;
+  }
+  .countryDiv {
+    position: absolute;
+    top: 96%;
+    left: 0;
+    margin-right: 0;
+    margin-left: 0;
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-left: 0 !important;
+  }
+
+  .quickDiv {
+    display: flex;
+    justify-self: center;
+    flex-wrap: wrap;
+    width: 80%;
+    height: 85% !important;
+    background-color: #053769;
+    border-radius: 30px;
+    -webkit-box-shadow: 1px 3px 1px rgba(0, 0, 0, 0.13);
+    -moz-box-shadow: 1px 3px 1px rgba(0, 0, 0, 0.13);
+    box-shadow: 1px 3px 10px #053769;
+  }
+
+  .quickRowDiv {
+    justify-content: center;
+  }
+}
+@media only screen and (max-device-width: 425px) {
+  .main {
+    position: relative;
+    padding: 60px 20px;
+  }
+
+  .countryDiv {
+    position: absolute;
+    border-radius: 30px;
+    margin-top: 20px;
+    margin-left: 0 !important;
+    margin-right: 0;
+    margin-left: 0;
+  }
+  .quickRowDiv {
+    justify-content: center;
+  }
+}
