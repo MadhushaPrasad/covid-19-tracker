@@ -4,7 +4,8 @@ import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
 
-
+import '../node_modules/jquery/dist/jquery';
+import '../node_modules/bootstrap/js/dist/collapse';
 
 ReactDOM.render(
   <React.StrictMode>
