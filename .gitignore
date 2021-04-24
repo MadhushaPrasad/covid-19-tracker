@@ -50,3 +50,4 @@ testem.log
 Thumbs.db
 .eslintcache
 .vscode
+/debug.log

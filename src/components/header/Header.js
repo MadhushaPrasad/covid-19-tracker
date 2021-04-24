@@ -16,9 +16,7 @@ class Header extends React.Component {
   render() {
     return (
       <nav className="navbar position-absolute fixed-top navbar-expand-lg navbar-light navDiv">
-        <a className="navbar-brand text-light" href="#">
-          Covid19 World Reports
-        </a>
+        <p className="navbar-brand text-light m-0">Covid19 World Reports</p>
         <button
             className="navbar-toggler"
             type="button"
@@ -26,7 +24,7 @@ class Header extends React.Component {
             data-target="#navbarSupportedContent"
             aria-controls="navbarSupportedContent"
             aria-expanded="false"
-          aria-label="Toggle navigation"
+            aria-label="Toggle navigation"
         >
           <span className="navbar-toggler-icon"></span>
         </button>
@@ -34,24 +32,18 @@ class Header extends React.Component {
         <div className="collapse navbar-collapse" id="navbarSupportedContent">
           <ul className="navbar-nav mr-auto">
             <li className="nav-item active">
-              <a className="nav-link text-danger" href="#">
+              <p className="nav-link text-danger m-0">
                 Home <span className="sr-only">(current)</span>
-              </a>
+              </p>
             </li>
             <li className="nav-item">
-              <a className="nav-link text-success" href="#">
-                Symptom
-              </a>
+              <p className="nav-link text-success m-0">Symptom</p>
             </li>
             <li className="nav-item">
-              <a className="nav-link text-warning" href="/srilanka">
-                Sri Lanka
-              </a>
+              <p className="nav-link text-warning m-0">Sri Lanka</p>
             </li>
             <li className="nav-item">
-              <a className="nav-link text-light" href="#">
-                About
-              </a>
+              <p className="nav-link text-light m-0">About</p>
             </li>
           </ul>
           <form className="form-inline my-2 my-lg-0">

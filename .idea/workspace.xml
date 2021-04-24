@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9844ca30-ad5e-41f3-bf46-21fcc7d2fa1c" name="Default Changelist" comment="" />
+    <list default="true" id="9844ca30-ad5e-41f3-bf46-21fcc7d2fa1c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/asset/Screenshot (118).png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/header/Header.js" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,6 +34,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -86,6 +93,9 @@
       <workItem from="1619083337944" duration="121000" />
       <workItem from="1619083499594" duration="920000" />
       <workItem from="1619092114936" duration="52000" />
+      <workItem from="1619230239744" duration="987000" />
+      <workItem from="1619231313476" duration="67000" />
+      <workItem from="1619232080691" duration="14000" />
     </task>
     <task id="LOCAL-00001" summary="first commit (Home Page)">
       <created>1604480676108</created>
@@ -94,7 +104,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604480676108</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="change file structure and others">
+      <created>1619230405132</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619230405132</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -104,30 +121,39 @@
     <option name="UPDATE_COPYRIGHT" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_CLEANUP_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="first commit (Home Page)" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit (Home Page)" />
+    <MESSAGE value="change file structure and others" />
+    <option name="LAST_COMMIT_MESSAGE" value="change file structure and others" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1345" height="331" key="GridCell.Tab.0.bottom" timestamp="1619083461005">
+    <state x="306" y="0" key="CommitChangelistDialog2" timestamp="1619230403834">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="331" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1619083461005" />
-    <state width="1345" height="331" key="GridCell.Tab.0.center" timestamp="1619083461005">
+    <state x="306" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1619230403834" />
+    <state width="1345" height="331" key="GridCell.Tab.0.bottom" timestamp="1619232185372">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="331" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1619083461005" />
-    <state width="1345" height="331" key="GridCell.Tab.0.left" timestamp="1619083461004">
+    <state width="1345" height="331" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1619232185372" />
+    <state width="1345" height="331" key="GridCell.Tab.0.center" timestamp="1619232185372">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="331" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1619083461004" />
-    <state width="1345" height="331" key="GridCell.Tab.0.right" timestamp="1619083461005">
+    <state width="1345" height="331" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1619232185372" />
+    <state width="1345" height="331" key="GridCell.Tab.0.left" timestamp="1619232185371">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1345" height="331" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1619083461005" />
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1619230324829">
+    <state width="1345" height="331" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1619232185371" />
+    <state width="1345" height="331" key="GridCell.Tab.0.right" timestamp="1619232185372">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1619230324829" />
+    <state width="1345" height="331" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1619232185372" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1619230417589">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1619230417589" />
   </component>
 </project>
