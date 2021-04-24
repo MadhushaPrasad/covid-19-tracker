@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9844ca30-ad5e-41f3-bf46-21fcc7d2fa1c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,7 +93,7 @@
       <workItem from="1619230239744" duration="987000" />
       <workItem from="1619231313476" duration="67000" />
       <workItem from="1619232080691" duration="14000" />
-      <workItem from="1619232111287" duration="364000" />
+      <workItem from="1619232111287" duration="824000" />
     </task>
     <task id="LOCAL-00001" summary="first commit (Home Page)">
       <created>1604480676108</created>
@@ -123,7 +123,21 @@
       <option name="project" value="LOCAL" />
       <updated>1619232338453</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update README.md file">
+      <created>1619232518839</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1619232518839</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update README.md file">
+      <created>1619232632483</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1619232632483</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -138,16 +152,17 @@
     <MESSAGE value="first commit (Home Page)" />
     <MESSAGE value="change file structure and others" />
     <MESSAGE value="change git ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="change git ignore" />
+    <MESSAGE value="update README.md file" />
+    <option name="LAST_COMMIT_MESSAGE" value="update README.md file" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
     <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="306" y="0" key="CommitChangelistDialog2" timestamp="1619232517984">
+    <state x="306" y="0" key="CommitChangelistDialog2" timestamp="1619232631539">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="306" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1619232517984" />
+    <state x="306" y="0" key="CommitChangelistDialog2/0.0.1366.738@0.0.1366.738" timestamp="1619232631539" />
     <state width="1345" height="331" key="GridCell.Tab.0.bottom" timestamp="1619232185372">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -164,9 +179,9 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1345" height="331" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1619232185372" />
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1619232527473">
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1619232640640">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1619232527473" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1619232640640" />
   </component>
 </project>
