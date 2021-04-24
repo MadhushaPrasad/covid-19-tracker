@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9844ca30-ad5e-41f3-bf46-21fcc7d2fa1c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/countryList/CountryList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/countryList/CountryList.js" afterDir="false" />
-    </list>
+    <list default="true" id="9844ca30-ad5e-41f3-bf46-21fcc7d2fa1c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -93,6 +85,7 @@
       <workItem from="1604480490888" duration="522000" />
       <workItem from="1619083337944" duration="121000" />
       <workItem from="1619083499594" duration="920000" />
+      <workItem from="1619092114936" duration="52000" />
     </task>
     <task id="LOCAL-00001" summary="first commit (Home Page)">
       <created>1604480676108</created>
@@ -132,5 +125,9 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state width="1345" height="331" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1619083461005" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1619230324829">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.738@0.0.1366.738" timestamp="1619230324829" />
   </component>
 </project>

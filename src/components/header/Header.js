@@ -15,19 +15,17 @@ class Header extends React.Component {
 
   render() {
     return (
-      <nav
-        className="navbar position-absolute fixed-top navbar-expand-lg navbar-light navDiv"
-      >
+      <nav className="navbar position-absolute fixed-top navbar-expand-lg navbar-light navDiv">
         <a className="navbar-brand text-light" href="#">
           Covid19 World Reports
         </a>
         <button
-          className="navbar-toggler"
-          type="button"
-          data-toggle="collapse"
-          data-target="#navbarSupportedContent"
-          aria-controls="navbarSupportedContent"
-          aria-expanded="false"
+            className="navbar-toggler"
+            type="button"
+            data-toggle="collapse"
+            data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent"
+            aria-expanded="false"
           aria-label="Toggle navigation"
         >
           <span className="navbar-toggler-icon"></span>
@@ -46,7 +44,7 @@ class Header extends React.Component {
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link text-warning" href="#">
+              <a className="nav-link text-warning" href="/srilanka">
                 Sri Lanka
               </a>
             </li>

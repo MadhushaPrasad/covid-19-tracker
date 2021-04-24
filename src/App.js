@@ -1,11 +1,15 @@
 import React from 'react';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Homepage from './pages/HomePage/Homepage';
+import AppRoutes from './routes/AppRoutes';
 
 class App extends React.Component {
   render() {
-    return <Homepage />;
+    return (
+        <div>
+          <AppRoutes/>
+        </div>
+    );
   }
 }
 
